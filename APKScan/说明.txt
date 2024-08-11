@@ -1,0 +1,9 @@
+项目地址：复制浏览器打开
+
+http://localhost:8080/apkscan/h5/index.html
+
+
+apk文件请用系统目录下准备好的这几个文件
+
+异常APK：每日直播.apk
+

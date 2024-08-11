@@ -1,0 +1,11 @@
+server:
+  servlet:
+    context-path: /apkscan
+  port: 8080
+spring:
+  resource:
+    static-locations: classpath:static/,file:static/
+  servlet:
+    multipart:
+      max-file-size: 1000MB
+      max-request-size: 1000MB
